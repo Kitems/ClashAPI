@@ -53,6 +53,7 @@ DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,hdslb.com
 # > Blizzard
+DOMAIN-SUFFIX,blizzard.com
 DOMAIN,blzddist1-a.akamaihd.net
 # > ByteDance
 DOMAIN-SUFFIX,feiliao.com
