@@ -52,6 +52,7 @@ DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,bilivideo.com
 # > Blizzard
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN,blzddist1-a.akamaihd.net
@@ -309,6 +310,7 @@ DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,doubanio.com
 DOMAIN-SUFFIX,douyu.com
 DOMAIN-SUFFIX,dxycdn.com
+DOMAIN-SUFFIX,xycdn.com
 DOMAIN-SUFFIX,dytt8.net
 DOMAIN-SUFFIX,eastmoney.com
 DOMAIN-SUFFIX,eudic.net
